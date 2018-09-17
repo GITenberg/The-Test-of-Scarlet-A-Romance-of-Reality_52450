@@ -1,5 +1,8 @@
 _repo: The-Test-of-Scarlet-A-Romance-of-Reality_52450
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52450-h/images/cover.jpg
 creator:
   author:
     agent_name: Dawson, Coningsby
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2497
     wikipedia: http://en.wikipedia.org/wiki/Coningsby_Dawson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52450#The-Test-of-Scarlet-A-Romance-of-Reality
 gutenberg_issued: '2016-06-30'
 gutenberg_type: Text
 identifiers:
