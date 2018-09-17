@@ -1,0 +1,30 @@
+_repo: The-Test-of-Scarlet-A-Romance-of-Reality_52450
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dawson, Coningsby
+    aliases:
+    - Dawson, Coningsby W. (Coningsby William)
+    - Dawson, Coningsby William
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '2497'
+    url: http://www.gutenberg.org/2009/agents/2497
+    wikipedia: http://en.wikipedia.org/wiki/Coningsby_Dawson
+description: ''
+gutenberg_issued: '2016-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52450'
+  lccn: '19015578'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'War stories'
+- GITenberg
+title: 'The Test of Scarlet: A Romance of Reality'
+url: http://www.gutenberg.org/ebooks/52450
